@@ -1,0 +1,10 @@
+{
+  "engine_block": {
+    "type": "Inline-4 gasoline",
+    "displacement": "1.6 L",
+    "horsePower": "130 hp",
+    "oilCapacity": "4.5 L",
+    "torque": "118 lb-ft"
+  }
+
+}
